@@ -1,7 +1,7 @@
 # Envoi-s-curis-d-un-document-via-Blockchain-IPFS
 Cette preuve de concept concernen l'envoi sécurisé de document comme une lettre de voiture via la Blockchain avec IPFS.
 
-#Pérequis: 
+# Pérequis: 
 NodeJs 14 => https://nodejs.org/
 - Truffle 5 => https://trufflesuite.com/docs/truffle/quickstart/
 - Ganache => https://trufflesuite.com/ganache/
